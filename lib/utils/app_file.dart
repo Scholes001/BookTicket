@@ -9,7 +9,7 @@ class Styles {
   static Color orangeColor = const Color(0xFFF37B67);
   static Color kakiColor = const Color(0xFFd2bdb6);
   static TextStyle textStyle = TextStyle(
-    fontSize: 16,
+    fontSize: 17,
     color: textColor,
     fontWeight: FontWeight.w500,
   );
